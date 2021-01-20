@@ -1,0 +1,26 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn > button {
+    background-color:#171A20;
+    border: 1px solid #171A20;
+    border-radius: 100px;
+    opacity: 0.85;
+    color: white;
+    font-size: 12px;
+    padding: 11px 100px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0px 10px;
+    outline: none;
+    font-weight: bold;
+}
+.button-white {
+    background-color: white !important;
+    opacity: 0.65 !important;
+    color: black !important;
+    border: 1px solid white !important;
+}

@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.footer label {
+    margin: 0px 10px;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: rgb(143, 143, 143);
+}
+.footer label:hover {
+    cursor: pointer;
+    color: black ;
+}
+.footer a {
+    font-size: 27px;
+    margin: 0px 5px;
+    color: gray;
+}
+.footer a:hover{
+    color: black;
+    cursor: pointer;
+}
